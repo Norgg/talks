@@ -6,17 +6,17 @@ Hello. My name is tef and I would like to talk to you about computer security, e
 
 SLIDE: Blank
 
-Now I have introduced myself I would like to know a little bit more about the audience. Could you please raise your hand if:
+Now I have introduced myself I would like to know a little bit more about the audience. Could you please raise your hand if you have:
 
 -- had a virus on your computer/mobile phone
 -- had an account or a password stolen
 -- used a site that has been hacked - myspace, phpbb, wordpress
--- been hacked ?
+-- been hacked?
    your own code or someone elses?
 
-Hopefully you can see from this small (biased unrepresentative) sample that nearly everyone has been affected by computer security at one point in their lives, but many people when writing a website think "It'll never happen to me".
+Hopefully you can see from this small (biased, unrepresentative) sample that nearly everyone has been affected by computer security at one point in their lives, but many people when writing a website think "It'll never happen to me".
 
-It does. Personally I've found major bugs in popular websites such as b3ta and livejournal, but major web applications such as myspace, phpbb, drupal have had their share of problems too.
+It does. Personally I've found major bugs in popular websites such as b3ta and livejournal, but major web applications such as myspace, phpbb and drupal have had their share of problems too.
 
 No-one is immune, and if you have bugs people will find them and exploit them.
 
@@ -49,13 +49,13 @@ Trolls didn't pick secure passwords but used obvious ones, but so did a lot of i
 People make mistakes when writing code too:
 
 SLIDE: Exploit numbers for the phpbb, bind, sendmail
-Soure: Secunia
+Source: Secunia
     phpbb, bind, sendmail, 
 
 Threat Models - Realistic considerations of security aka What's your threat model, how attackers think
 
 What's your threat model? 
-the four most important words in security.
+The four most important words in security.
 
 Slide: "WYTM" http://iang.org/ssl/wytm.html 
 
@@ -140,6 +140,6 @@ Final Slide:
         SANS/ISC
         F_secure blog
 
-I hope you've enjoyed my talk, and maybe tomorrow there might be a few less bugs out there.
+I hope you've enjoyed my talk, and maybe tomorrow there will be fewer bugs out there.
 
 Questions?
